@@ -27,6 +27,8 @@ LINE = (
     "the receipt they charge you extra for."
 )
 
+# Verified by running main.py: entry.txt holds this 102-character line
+# plus one trailing newline (103 bytes), inside the bounty gate of 1..200.
 MAX_CHARS = 200
 
 
